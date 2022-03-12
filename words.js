@@ -1674,7 +1674,16 @@ const WORDS = [
     'gluma',
     'suflu',
     'pizda',
-    'bulan'
+    'bulan',
+    'penis',
+    'metro',
+    'emoji',
+    'tacut',
+    'lepra',
+    'armat',
+    'radon',
+    'bariu',
+    'indiu',
     ]
 
 export default WORDS
