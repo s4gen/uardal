@@ -1,6 +1,7 @@
 
 const WORDS = [
     'pluta',
+    'print',
     'rimel',
     'dubiu',
     'bruna',
