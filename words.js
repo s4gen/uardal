@@ -1,5 +1,6 @@
 
 const WORDS = [
+    'pluta',
     'rimel',
     'dubiu',
     'bruna',
