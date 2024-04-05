@@ -1,5 +1,6 @@
 
 const WORDS = [
+    'valah',
     'coaie',
     'armin',
     'jidan',
