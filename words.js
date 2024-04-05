@@ -1,5 +1,6 @@
 
 const WORDS = [
+    'jidan',
     'gyatt',
     'sigma',
     'strat',
