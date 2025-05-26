@@ -1693,6 +1693,7 @@ const WORDS = [
     'radon',
     'bariu',
     'indiu',
+    'labar'
     ]
 
 export default WORDS
